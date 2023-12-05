@@ -3,6 +3,10 @@
     {
       "id": "hubspot",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
