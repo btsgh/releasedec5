@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "inbuiltlibrarycheck",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -15,7 +19,53 @@
   },
   "color": "#CCCCCC",
   "icon": "location",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
+    },
+    {
+      "uidString": "Sentry_https://browser.sentry-cdn.com/7.17.3/bundle.min.js"
+    },
+    {
+      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
+    },
+    {
+      "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
+    },
+    {
+      "uidString": "Appwrite_https://cdn.jsdelivr.net/npm/appwrite@10.2.0/dist/iife/sdk.min.js"
+    },
+    {
+      "uidString": "ky_https://www.unpkg.com/ky@0.25.0/umd.js"
+    },
+    {
+      "uidString": "Papa_https://unpkg.com/papaparse@5.3.2/papaparse.min.js"
+    },
+    {
+      "uidString": "amplitude_https://cdn.jsdelivr.net/npm/@amplitude/analytics-browser@1.6.1/lib/scripts/amplitude-min.umd.js"
+    },
+    {
+      "uidString": "supabase_https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.4.0/dist/umd/supabase.min.js"
+    },
+    {
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+    },
+    {
+      "uidString": "dcodeIO_https://cdn.jsdelivr.net/npm/bcryptjs@2.4.3/dist/bcrypt.min.js"
+    },
+    {
+      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+    },
+    {
+      "uidString": "XMLParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/4.3.2/fxparser.min.js"
+    },
+    {
+      "uidString": "openai_https://cdn.jsdelivr.net/npm/openai@4.19.0/+esm"
+    },
+    {
+      "uidString": "ExcelJS_regeneratorRuntime_https://cdn.jsdelivr.net/npm/exceljs@4.3.0/dist/exceljs.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
