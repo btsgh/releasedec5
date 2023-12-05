@@ -2,6 +2,7 @@
   "unpublishedPage": {
     "name": "Page3 Copy",
     "slug": "page3-copy",
+    "customSlug": "page3copyedited",
     "layouts": [
       {
         "viewMode": false,
