@@ -73,9 +73,6 @@
       "uidString": "dcodeIO_https://cdn.jsdelivr.net/npm/bcryptjs@2.4.3/dist/bcrypt.min.js"
     },
     {
-      "uidString": "Appwrite_https://cdn.jsdelivr.net/npm/appwrite@10.2.0/dist/iife/sdk.min.js"
-    },
-    {
       "uidString": "XMLParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/4.3.2/fxparser.min.js"
     },
     {
