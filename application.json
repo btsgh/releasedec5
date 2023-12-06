@@ -55,13 +55,13 @@
       "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
     },
     {
-      "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
+      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
     },
     {
       "uidString": "Sentry_https://browser.sentry-cdn.com/7.17.3/bundle.min.js"
     },
     {
-      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+      "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
     },
     {
       "uidString": "Papa_https://unpkg.com/papaparse@5.3.2/papaparse.min.js"
